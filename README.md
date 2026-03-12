@@ -255,8 +255,8 @@ npm run dev
 |---------|------|------|
 | `AMAP_API_KEY` | 高德地图 API Key | ✅ |
 | `LLM_API_KEY` | 大模型 API Key | ✅ |
-| `LLM_BASE_URL` | 大模型 API 地址 | ❌ |
-| `LLM_MODEL_ID` | 模型 ID | ❌ |
+| `LLM_BASE_URL` | 大模型 API 地址 | ✅ |
+| `LLM_MODEL_ID` | 模型 ID | ✅ |
 | `DEBUG` | 调试模式 | ❌ |
 
 ## 🔧 开发说明
@@ -288,3 +288,4 @@ MIT License
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [高德地图](https://lbs.amap.com/)
+  -helloagent datewhale 项目组
