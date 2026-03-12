@@ -173,7 +173,7 @@ LLM_MODEL_ID=gpt-4o-mini
 ### 3. 安装依赖
 
 ```bash
-# Python 依赖
+# Python 依赖,也可以先pip个langgraph 然后看提示缺啥补啥就行
 pip install -r requirements.txt
 
 # 前端依赖
