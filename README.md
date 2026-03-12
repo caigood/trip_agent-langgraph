@@ -288,4 +288,4 @@ MIT License
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [高德地图](https://lbs.amap.com/)
-  -helloagent datewhale 项目组
+- -helloagent datewhale 项目组
